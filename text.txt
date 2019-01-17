@@ -1,0 +1,44 @@
+J'essaie de faire un truc vraiment cool et rigolo pour essayer de choper un mec bon et dans l'esprit. Voila en gros ou j'en suis. Je pense le formatter sous la forme d'un mini site responsive avec un outil de prototypage random, le pdf c'est so 1991.
+
+BARBIERS ET CONSULTANTS CHERCHENT CODEUR A L'ÂME (TENDRE) D'ENTREPRENEUR POUR STAGE DE FOLIE ET PLUS SI AFFINITÉS.
+
+TLDR;
+L'équipe de Monsieur Barbier et des joyeux drilles de STFU cherchent un stagiaire qui aura le courage (d'aucuns diront la folie) de les rejoindre pendant au moins 6 mois. Multi casquette, non seulement tu deviendras un ouf du code, des stratégies de croissance, et des méthodos d'innovation et de prototypage, mais tu participeras à l'évolution de startups en périodes de croissance. Ayant 2, voir 3 stages en 1, ça va être intense. Prêt ? Voilà tout ce que tu vas te prendre dans la figure apprendre avec nous :
+
+Monsieur Barbier (3 jours par semaine)
+Vision et business (10%)
+"Vivre l'histoire d'une startup" : Connaissance de tous les enjeux, l'histoire du business Monsieur Barbier.
+"Choix et discussions stratégiques" : Discussions sur comment fiare les choses, participation a la création du deck pour investisseurs (periode de levee)
+Content et marketing (10%)
+"C'est quoi la SEO" : introduction et participation aux techniques de SEO et de content marketing.
+"Les femmes a barbe: mythe ou réalité ?" : rédaction d'articles délirants :)
+"Craquage du vendredi soir..." : autres méthodes d'acquisition rigolotes a tester: réseaux sociaux, photos instagrams, vidéos tutoriels crazy...
+Code et technique (80%)
+"Trouve la solution la plus efficace !" Benchmark, choix et architecture de technologies et d'outils pour repondre a differents problemes operationnels concrets : analytics, logs, metrics, automation, marketing... Intégration de ces technologies.
+"Entraine ton muscle du code" Conception, architecture, test et developpement de nouvelles fonctionnalites sur le site monsieur barbier : business, administration, marketing, trucs funs. 
+"Comment devenir un meilleur programmeur ?" Design et refactorisation de la codebase du site barbier : Micro framework custom MVC moderne et flexible, bien qu'il soit en PHP ! Peer programming  + je peer review ton code, et tu peer review mon code !
+"Apprendre à aimer, ok, mais surtout apprendre à programmer" Si tous les mots au dessus t'ont fait peur, mais que tu veux apprendre et que tu es près à t'y mettre à fond, n'ait crainte ! En 2 mois au début du stage tu auras rattrapé ton retard avec une formation intensive à HTML, CSS, Javascript, jQuery, PHP, MySql, ainsi que des introductions à Ruby On Rails, Python, Node.js, Meteor et MongoDb. Et on pourra commencer à parler :)
+
+STFU (Présence continuelle avec David et Micka le reste du temps)
+Devenir badass en méthodologies pratiques de startups (40%)
+"Bah mon idee tout le monde me dit qu'elle est cool quand j'en parle mais j'apprend pas grand chose de plus..." Comment bien faire des interviews clients pour positionner, valider et gagner du feedback utile sur son idee de startup.
+"Je vais coder tout direct, TKT, ca me prendra pas longtemps !" Comment ne pas perdre 3 mois pour developper des features qui ne servent a rien, avec des ateliers de conception intenses de 5 jours qui permettent de concevoir, ameliorer et tester un produit ... sans le developper reellement !
+"Dis moi t'as pas oublié un truc dans la présentation de ton projet ?" Apprentissage des best practices dans la presentation d'un projet, en particulier d'un projet de startup.
+Appliquer et vendre ces méthodologies à travers des ateliers (30%)
+"J'ai un pote qui ...' Trouver et discuter avec les prospects qu'on rencontre, leur proposer des offres, apprendre a faire des contrats pour du code, negocier les prix...
+"Gérer des equipes de cadres qui se tapent dessus, avec des enjeux politiques cachés et qui savent pas travailler en équipe : impossible ?" Participer aux ateliers d'animation STFU
+"A la 3eme etape, ils doivent decider de la couleur du fond d'écran en votant avec sur la couleur avec des pastilles de couleur. Enfin non. Leur pastille de leur couleur sur la couleur. Enfin.... bref vous m'avez compris." Concevoir des déroulés d'ateliers d'animation réalistes et utiles.
+"T'es dans la team ! " (10%) Decouvrir les enjeux et les difficultes du freelance, rencontrer une communaute de startupers, echanger des connaissances des idées, et du réseau :) 
+Selons projets (20%)
+Communication sur le site
+Apprentissage d'autres technos (Static sites, react native...)
+Développement de prototypes
+???
+
+3.  Side projets (Le reste du reste du temps)
+On est un peu hyperactifs et inventifs, on aime bien les gens qui le sont aussi, surtout tout en étant pragmatiques et efficaces :)
+Le tien !
+"Ho putain c'est qui ces malades" Que tu aies une idée de startup, de petit projet ou pas du tout, le stage commencera par un hackathon de 24h dont tu seras le maître. Tu devras venir nous voir avec des idées / problèmes, puis nous convaincre de la valeur d'en résoudre un. On en fera le pitch complet ensemble, et on en concevra et realisera ensemble un MVP et une landing page dans la nuit. Le lendemain, on ira le faire tester à des gens dans ta cible. Welcome !
+Toute notre aide sur tes projets.
+Passages Participation a des hackathons créatifs qui rendent le processus artistique ouvert à tous : kezaco
+Bunch Si ca t'intéresse, on a un collectif avec lequel on organise des teufs où un jeu créatif fait icebreaker avant la soirée.
