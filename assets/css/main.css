@@ -1,4 +1,4 @@
-@import url(font-awesome.min.css);
+/*@import url(font-awesome.min.css);*/
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
 /*
@@ -1623,7 +1623,8 @@
 	}
 
 	body {
-		background: #242943;
+		/*background: #242943;*/
+		background: black;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2100,7 +2101,8 @@
 			background: #ffffff;
 			border-color: #9bf1ff;
 			content: '\f00c';
-			color: #242943;
+			/*color: #242943;*/
+			color: black;
 		}
 
 		input[type="checkbox"]:focus + label:before,
@@ -2181,7 +2183,8 @@
 		.icon.alt:before {
 			background-color: #ffffff;
 			border-radius: 100%;
-			color: #242943;
+			/*color: #242943;*/
+			color: black;
 			display: inline-block;
 			height: 2em;
 			line-height: 2em;
@@ -2418,7 +2421,8 @@
 
 					ul.pagination li > .page.active {
 						background-color: #ffffff;
-						color: #242943;
+						/*color: #242943;*/
+						color: black;
 					}
 
 						ul.pagination li > .page.active:hover {
@@ -2716,7 +2720,8 @@
 		.button.special {
 			background-color: #ffffff;
 			box-shadow: none;
-			color: #242943;
+			/*color: #242943;*/
+			color: black;
 		}
 
 			input[type="submit"].special:hover, input[type="submit"].special:active,
@@ -2801,8 +2806,12 @@
 			width: 40%;
 		}
 
-			.tiles article p {
+			.tiles article p, .tiles article ul {
 				font-size: 18px;
+			}
+
+			.tiles article ul.fa-ul {
+				margin-left: 27.5px;
 			}
 
 			.tiles article .image {
@@ -2832,10 +2841,19 @@
 				z-index: 4;
 			}
 
-			.tiles article#stfu:before {
+			.tiles article#stfu-convictions:before, .tiles article#value-1:before {
 				background-color: black;
 				/*opacity: 0.70;*/
 			}
+
+			.tiles article#stfu-mission:before, .tiles article#value-2:before {
+				/*background-color: #332e00; */
+				background-color: #000000e8;
+
+				/*opacity: 0.70;*/
+			}
+
+
 
 			.tiles article#team:before {
 				background-color: orange;
@@ -2901,7 +2919,7 @@
 
 
 
-			.tiles article#stfu, .tiles article#barbier  {
+			.tiles article#stfu-convictions, .tiles article#stfu-mission, .tiles article#value-1, .tiles article#value-2  {
 				width: 50%;
 			}
 
@@ -3199,7 +3217,8 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #2a2f4a;
+		/*background-color: #2a2f4a;*/
+		background-color: #060606;
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
 		cursor: default;
 		font-weight: 600;
@@ -3230,7 +3249,8 @@
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				background-color: #ffffff;
-				color: #242943;
+				/*color: #242943;*/
+				color: black;
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -3498,8 +3518,8 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-color: #242943;
-			/*background-color: black;*/
+			/*background-color: #242943;*/
+			background-color: black;
 			content: '';
 			display: block;
 			height: 100%;
@@ -3678,7 +3698,8 @@
 /* Main */
 
 	#main {
-		background-color: #2a2f4a;
+		/*background-color: #2a2f4a;*/
+		background-color: #060606;
 	}
 
 		#main > * {
