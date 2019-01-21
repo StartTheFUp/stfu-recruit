@@ -348,7 +348,7 @@
 				});
 		$('#share-button').click(function(e) {
 			e.preventDefault();
-			e.target.parentElement.innerHTML = 'Copie colle le lien suivant sur ton internet préféré : <a href= "http://stage-de-ouf.startthefup.co">http://stage-de-ouf.startthefup.co</a> Merci bcp !';
+			e.target.parentElement.innerHTML = 'Copie colle le lien suivant sur ton internet préféré : <a href= "https://join.startthefup.co">https://join.startthefup.co</a> Merci bcp !';
 		});
 
 	});

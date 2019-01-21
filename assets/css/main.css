@@ -2856,8 +2856,8 @@
 
 
 			.tiles article#team:before {
-				background-color: orange;
-				opacity: 0.30;
+				background-color: #000000e8;
+				opacity: 0.0;
 			}
 
 
@@ -2917,14 +2917,16 @@
 				opacity: 0;
 			}
 
+	/*		#zero-half article {
+				width: 100%;
+			}*/
 
-
-			.tiles article#stfu-convictions, .tiles article#stfu-mission, .tiles article#value-1, .tiles article#value-2  {
+			.tiles article#stfu-convictions, .tiles article#stfu-mission, .tiles article#value-1, .tiles article#value-2 {
 				width: 50%;
 			}
 
-			.tiles article#team {
-				width: 100%;
+			.tiles article#team, .tiles article#stfu  {
+				width: 100% !important;
 			}
 
 
@@ -3013,13 +3015,23 @@
 	}
 
 		.contact-method .icon {
-			left: 0;
+			left: -10px;
 			position: absolute;
 			top: 0;
 		}
 
 		.contact-method h3 {
 			margin: 0 0 0.5em 0;
+		}
+
+		.contact-method .logo-container {
+			width: 160px;
+
+		}
+
+		.contact-method img {
+			width: 100%;
+			border-radius: 50%;
 		}
 
 /* Spotlights */
