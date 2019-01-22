@@ -1624,7 +1624,7 @@
 
 	body {
 		/*background: #242943;*/
-		background: black;
+		background: #000000c7;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2843,14 +2843,14 @@
 
 			.tiles article#stfu-convictions:before, .tiles article#value-1:before, .tiles article#stfu:before {
 				background-color: black;
-				/*opacity: 0.70;*/
+				opacity: 0.60;
 			}
 
 			.tiles article#stfu-mission:before, .tiles article#value-2:before, .tiles article#stfu:before {
 				/*background-color: #332e00; */
 				background-color: #000000e8;
 
-				/*opacity: 0.70;*/
+				opacity: 0.60;
 			}
 
 
@@ -2894,7 +2894,7 @@
 			}
 
 			.tiles#one article:hover:before, .tiles#zero-half article:hover:before {
-				opacity: 0.7;
+				opacity: 0.5;
 			}
 
 			.tiles#three article:before {
