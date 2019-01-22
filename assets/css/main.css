@@ -2841,12 +2841,12 @@
 				z-index: 4;
 			}
 
-			.tiles article#stfu-convictions:before, .tiles article#value-1:before {
+			.tiles article#stfu-convictions:before, .tiles article#value-1:before, .tiles article#stfu:before {
 				background-color: black;
 				/*opacity: 0.70;*/
 			}
 
-			.tiles article#stfu-mission:before, .tiles article#value-2:before {
+			.tiles article#stfu-mission:before, .tiles article#value-2:before, .tiles article#stfu:before {
 				/*background-color: #332e00; */
 				background-color: #000000e8;
 
@@ -2893,8 +2893,8 @@
 				opacity: 0;
 			}
 
-			.tiles#one article:hover:before {
-				opacity: 0.9;
+			.tiles#one article:hover:before, .tiles#zero-half article:hover:before {
+				opacity: 0.7;
 			}
 
 			.tiles#three article:before {
@@ -2917,15 +2917,11 @@
 				opacity: 0;
 			}
 
-	/*		#zero-half article {
-				width: 100%;
-			}*/
-
-			.tiles article#stfu-convictions, .tiles article#stfu-mission, .tiles article#value-1, .tiles article#value-2 {
+			 .tiles article#value-1, .tiles article#value-2 {
 				width: 50%;
 			}
 
-			.tiles article#team, .tiles article#stfu  {
+			.tiles article#stfu-convictions, .tiles article#stfu-mission, .tiles article#team, .tiles article#stfu  {
 				width: 100% !important;
 			}
 
@@ -2975,7 +2971,6 @@
 			.tiles article {
 				width: 50% !important;
 			}
-
 		}
 
 		@media screen and (max-width: 736px) {
@@ -2987,10 +2982,9 @@
 				min-height: 0;
 			}
 
-				.tiles article h3 {
-					font-size: 1.5em;
-				}
-
+			.tiles article h3 {
+				font-size: 1.5em;
+			}
 		}
 
 		@media screen and (max-width: 736px) {
