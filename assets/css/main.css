@@ -1846,6 +1846,10 @@
 		margin-bottom: 2em;
 	}
 
+	.text .inner header.major {
+		max-width: 500px;
+	}
+
 		header.major > :first-child {
 			margin-bottom: 0;
 			width: calc(100% + 0.5em);
@@ -4269,3 +4273,44 @@
 .logo-image-container img {
 	height: 100%;
 }
+
+.emojilistwrapper {
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.emojilistwrapper ul, li {
+	/*width:500px;*/
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.emojilistwrapper li {
+  position: relative;
+  padding-left: 20px;
+  margin-bottom: 20px;
+  
+  &:before {
+    display: block;
+    position: absolute;
+    top: 2.5px;
+    left: 0;
+    content: "";
+    font-size: .75em;
+  }
+}
+
+
+
+.emojilistwrapper ul li.box:before { content: "❑"; }
+.emojilistwrapper ul li.hand:before { content: "☞"; }
+.emojilistwrapper ul li.star:before { content: "✭"; }
+.emojilistwrapper ul li.triangle:before { content: "►"; }
+.emojilistwrapper ul li.dot:before { content: "◉";}
+.emojilistwrapper ul li.quote:before { content: "»"; }
+.emojilistwrapper ul li.arrow:before { content: "→"; }
+.emojilistwrapper ul li.sun:before { content: "☀️"; }
+.emojilistwrapper ul li.checkmark:before { content: "✓"; }
+.emojilistwrapper ul li.smiley:before { content: "😀"; }
